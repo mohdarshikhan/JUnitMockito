@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JUnitMockito</string>
+    <string name="settings_title">Settings</string>
+    <string name="name_label">Name</string>
+    <string name="name_hint">Enter Name</string>
+    <string name="dob_label">DOB</string>
+    <string name="email_label">Email</string>
+    <string name="email_hint">Enter Email</string>
+    <string name="save">Save</string>
+    <string name="revert">Revert</string>
+</resources>
